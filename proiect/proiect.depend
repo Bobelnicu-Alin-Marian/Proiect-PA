@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1717007904 source:c:\users\asus\documents\info\proiect\carte.c
+	<sys/types.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<limits.h>
+	"carte.h"
+
+1717003593 c:\users\asus\documents\info\proiect\carte.h
+
+1717008453 source:c:\users\asus\documents\info\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"carte.h"
+	<time.h>
+
